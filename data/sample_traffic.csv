@@ -1,4 +1,4 @@
-import pandas as pd
-# Save simulated data
-df = pd.DataFrame([[lane_1, lane_2, emergency_detected]], columns=['Lane 1', 'Lane 2', 'Emergency'])
-df.to_csv('data/sample_traffic.csv', index=False)
+lane_1,lane_2,emergency
+12,5,False
+8,15,True
+10,10,False
