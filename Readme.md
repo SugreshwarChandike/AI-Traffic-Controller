@@ -7,7 +7,7 @@ This project simulates and controls a smart traffic light system using AI. It ad
 - **Prototype Mode**: Connects to real hardware (IR sensors, LEDs) for real-time control.
 
 ## 📁 Folder Overview
-- Simulation Mode: Simulation Mode: Implements a simplified model that replicates the workflow with randomized inputs to visualize and test system functionality in an online environment.
+- Simulation Mode:Implements a simplified model that replicates the workflow with randomized inputs to visualize and test system functionality in an online environment.
    - `data/`: Sample traffic inputs
    - `images/`: Visual outputs and screenshots
    - `simulation/`: Notebook-based simulation.
