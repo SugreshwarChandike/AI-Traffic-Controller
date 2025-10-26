@@ -13,4 +13,4 @@ This project simulates and controls a smart traffic light system using AI. It ad
 - `prototype/`: Hardware-ready Python modules
 
 ## 👨‍💻 Author
-Sugreshwar — Electronics enthusiast and AI system designer
+Sugreshwar — Cyber Student, AI system designer and Ethical Hacking enthusiast.
