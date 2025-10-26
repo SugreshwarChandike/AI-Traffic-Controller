@@ -1,7 +1,6 @@
 from traffic_logic import decide_light
 
-# Toggle this when hardware arrives
-USE_HARDWARE = False
+USE_HARDWARE = True
 
 if USE_HARDWARE:
     from hardware_input import read_lane_data
