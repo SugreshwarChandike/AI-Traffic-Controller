@@ -29,3 +29,6 @@ This project simulates a smart traffic light system using AI. It adapts to real-
 
 ## 👨‍💻 Author
 Sugreshwar — Diploma student passionate about AI, electronics, and secure systems
+
+## 🤖Future Upgrades
+Developing a prototype and Making changes of code According to the prototype.
