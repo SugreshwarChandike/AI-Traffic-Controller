@@ -18,7 +18,7 @@ This project simulates a smart traffic light system using AI. It adapts to real-
 - GitHub
 
 ## 📁 Files
-- `traffic_simulation.ipynb`: Main notebook
+- `simulation/traffic_simulator.ipynb`: Main notebook
 - `data/sample_traffic.csv`: Simulated traffic data
 - `models/traffic_model.pkl`: Trained model (optional)
 
