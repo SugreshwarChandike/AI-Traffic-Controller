@@ -20,7 +20,6 @@ This project simulates a smart traffic light system using AI. It adapts to real-
 ## 📁 Files
 - `simulation/traffic_simulator.ipynb`: Main notebook
 - `data/sample_traffic.csv`: Simulated traffic data
-- `models/traffic_model.pkl`: Trained model (optional)
 
 ## 🚀 How to Run
 1. Open `traffic_simulation.ipynb` in Google Colab
